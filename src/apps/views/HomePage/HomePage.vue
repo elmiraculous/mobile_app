@@ -2,6 +2,7 @@
   <ion-page>
     <ion-header class="name">
       <h1>Иванов Иван Иванович</h1>
+      <img src="assets\images\Group (1).svg" alt="">
     </ion-header>
     <div class="content">
       <ion-button class="btn__scan" @click="goToScan">Сканирование</ion-button>
@@ -32,6 +33,8 @@ function goToScan() {
   #2e5e7e -60%, 
   #55b3f3 78%);
   color: white;
+  display: flex;
+  justify-content: space-around;
 
 }
 .content{

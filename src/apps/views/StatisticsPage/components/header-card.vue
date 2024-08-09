@@ -2,7 +2,7 @@
   <ion-header class="top">
     <div class="top__exit">
       <h2>Иванов Иван Иванович</h2>
-      <img src="assets\images\Group (1).svg" alt="">
+      <img src="@images/Group (1).svg" alt="exit">
     </div>
 
     <div class="top__meet">
@@ -13,7 +13,7 @@
     <div class="top__scan">
       <div class="top__scan__fire">
         <h6>июнь</h6>
-        <img class="fire-img" src="assets\images\8973099 2.png" alt="fire">
+        <img class="fire-img" src="@images/8973099 2.png" alt="fire">
       </div>
       <div><ion-button>Сканировать qr код</ion-button></div>
 

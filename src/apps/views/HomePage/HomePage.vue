@@ -2,7 +2,7 @@
   <ion-page>
     <ion-header class="name">
       <h1>Иванов Иван Иванович</h1>
-      <img src="assets\images\Group (1).svg" alt="">
+      <img src="@images/Group (1).svg" alt="exit">
     </ion-header>
     <div class="content">
       <ion-button class="btn__scan" @click="goToScan">Сканирование</ion-button>
